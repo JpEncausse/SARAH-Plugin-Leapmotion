@@ -1,0 +1,8 @@
+{
+  "modules" : { 
+    "leapmotion":     {
+      "description": "Communique avec le LeapMotion",
+      "version"    : "1.0"    
+    }
+  }
+}
